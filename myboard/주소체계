@@ -1,0 +1,5 @@
+http://127.0.0.1:8000/cms/book/
+http://127.0.0.1:8000/cms/book/add
+http://127.0.0.1:8000/cms/book/modify/5/
+http://127.0.0.1:8000/cms/book/delete/7/
+
